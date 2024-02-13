@@ -169,6 +169,10 @@
       "url": "Imc.styles.css"
     },
     {
+      "hash": "sha256-8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U=",
+      "url": ".nodejekyll"
+    },
+    {
       "hash": "sha256-DAqMhjxWDbJ2ve7SIGd+KAw8S+KGWhNEyiuC52FfA0Y=",
       "url": "assets\/android\/android-launchericon-144-144.png"
     },
@@ -645,11 +649,11 @@
       "url": "imc.js"
     },
     {
-      "hash": "sha256-hYe5gEso8Tunuaz1PlyxQBS6nUIMNv897GSmBtz+o0s=",
+      "hash": "sha256-HqR2syY4xcUlZl\/t9DuuwBF9h\/2mZtfjR3iVFV12\/vw=",
       "url": "index.html"
     },
     {
-      "hash": "sha256-XP3lk+C092K+oVLl\/05Icq3u93zp+I8Bz5jo9npB1Yk=",
+      "hash": "sha256-qwd0Dlp1uPpNjLnc6gBBcpq4bvBfWOOJ3DdAwvrhAjc=",
       "url": "manifest.webmanifest"
     },
     {
@@ -657,5 +661,5 @@
       "url": "sample-data\/weather.json"
     }
   ],
-  "version": "IXX2YSAu"
+  "version": "DY9hXZoZ"
 };
